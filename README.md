@@ -5,7 +5,7 @@ This repo builds UI patterns from Core-CMS stylesheets.
 
 ## Requirements
 
-The https://github.com/TACC/Core-CMS/ stylesheets are odcumented with [KSS(-Node) syntax](https://github.com/kss-node/kss/blob/spec/SPEC.md).
+The https://github.com/TACC/Core-CMS/ stylesheets are documented with [KSS(-Node) syntax](https://github.com/kss-node/kss/blob/spec/SPEC.md).
 
 ## Quick Start
 
