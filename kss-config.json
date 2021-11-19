@@ -1,0 +1,17 @@
+{
+  "source": [
+    "core-cms/taccsite_cms/static/site_cms/css/src/_imports"
+  ],
+  "homepage": "homepage.md",
+
+  "destination":  "dist",
+  "builder": "node_modules/kss/builder/handlebars",
+
+  "css": [
+    "core-cms/site.css",
+    "core-cms/site.fonts.css",
+    "core-cms/site.header.css"
+  ],
+
+  "verbose": true
+}

@@ -1,0 +1,3 @@
+[submodule "Core-CMS"]
+	path = Core-CMS
+	url = https://github.com/TACC/Core-CMS.git
