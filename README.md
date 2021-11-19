@@ -9,7 +9,7 @@ The https://github.com/TACC/Core-CMS/ stylesheets are documented with [KSS(-Node
 
 ## Quick Start
 
-0. `yarn install`\*
+0. `yarn install`
 1. `git submodule init`\*
 2. `git submodule update`\*
 3. `yarn start`
