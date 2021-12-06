@@ -5,7 +5,7 @@
   "homepage": "homepage.md",
 
   "destination":  "dist",
-  "builder": "node_modules/kss/builder/handlebars",
+  "builder": "node_modules/kss/builder/nunjucks",
 
   "css": [
     "core-cms/site.css",
