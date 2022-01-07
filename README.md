@@ -1,5 +1,5 @@
 ## Texas Advanced Computing Center
-# CMS UI Patterns (powered by KSS)
+# CMS UI Patterns (powered by [KSS](https://kss-node.github.io/kss-node/))
 
 This repo builds UI patterns from Core-CMS stylesheets.
 
