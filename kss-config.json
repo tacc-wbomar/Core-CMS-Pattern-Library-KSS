@@ -11,7 +11,7 @@
     "core-cms/site.css",
     "core-cms/site.fonts.css",
     "core-cms/site.header.css",
-    "tacc-assets/kss.tacc.css"
+    "tacc-assets/kss.css"
   ],
 
   "verbose": true
