@@ -1,0 +1,8 @@
+/* To prevent `.o-section` in main content from overlapping sidebar */
+.kss-sidebar { z-index: 1; }
+.kss-main    { z-index: 0; position: relative; }
+
+/* To make examples stand out without being obtrusive */
+.kss-modifier__example {
+    box-shadow: 0 0 10px lightgrey;
+}
