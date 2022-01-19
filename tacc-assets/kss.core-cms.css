@@ -1,0 +1,4 @@
+/* To avoid section content sticking to side of page */
+#kssref-objects-section .kss-modifier__wrapper {
+    padding-inline: 1em !important;
+}

@@ -1,8 +1,13 @@
+/* HACK: To hide `.o-section--style-…` & `.o-section__banner-image` overflow */
+.kss-modifier__example {
+    overflow-x: hidden;
+}
+
 /* To prevent `.o-section` in main content from overlapping sidebar */
 .kss-sidebar { z-index: 1; }
 .kss-main    { z-index: 0; position: relative; }
 
-/* To make examples stand out without being obtrusive */
+/* To make examples always stand out without being obtrusive */
 .kss-modifier__example {
     box-shadow: 0 0 10px lightgrey;
 }
